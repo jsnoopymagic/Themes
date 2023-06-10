@@ -17,7 +17,7 @@
 
 
 :root {
-  --background: ##010000 !important;
+  --background: ##01000 !important;
   --text-color: #ff0000 !important;
   --highlight: var(--text-color) !important;
 }
